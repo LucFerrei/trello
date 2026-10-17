@@ -1,4 +1,6 @@
-mod api;
+pub mod api;
+pub mod core;
+pub mod auth;
 
 #[tokio::main]
 async fn main() {
