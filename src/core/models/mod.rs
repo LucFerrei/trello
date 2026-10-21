@@ -1,2 +1,2 @@
-mod card;
 mod board;
+mod card;
